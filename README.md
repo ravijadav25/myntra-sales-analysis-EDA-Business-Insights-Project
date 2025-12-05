@@ -14,6 +14,7 @@ This repository contains all scripts, notebooks, and documentation related to th
 ├── reports/
 │   └── Business_Report.md
 └── README.md
+├── requirements.txt
 ```
 
 ---
