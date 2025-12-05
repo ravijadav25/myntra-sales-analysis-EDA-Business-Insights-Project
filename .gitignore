@@ -1,0 +1,37 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files (if large or sensitive)
+Data/
+*.csv
+*.xlsx
+*.json
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# IDE configs
+.idea/
+
+# MacOS
+.AppleDouble
+.LSOverride
