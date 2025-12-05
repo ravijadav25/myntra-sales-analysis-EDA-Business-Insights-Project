@@ -35,3 +35,7 @@ Data/
 # MacOS
 .AppleDouble
 .LSOverride
+
+
+
+.ipynb_checkpoints/
