@@ -1,0 +1,68 @@
+
+# Myntra Data Cleaning & Sales Analysis
+
+This repository contains all scripts, notebooks, and documentation related to the data cleaning and sales analysis of Myntra product datasets.
+
+---
+
+## 📁 Project Structure
+```
+├── data/
+│   └── Myntra_DataCleaning.csv
+├── notebooks/
+│   └── Myntra_Sales.ipynb
+├── reports/
+│   └── Business_Report.md
+└── README.md
+```
+
+---
+
+## 📌 Project Objectives
+- Clean raw Myntra data for analysis.
+- Explore sales patterns, pricing behavior, and category-level insights.
+- Build reusable scripts and visualizations for business intelligence.
+
+---
+
+## 🚀 Features
+- Comprehensive Jupyter Notebook for data analysis.
+- Cleaned dataset ready for deep analytics or machine learning.
+- Automated business insights and reporting.
+
+---
+
+## 🛠️ Technologies Used
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook
+- CSV Data Processing
+- Markdown for Documentation
+
+---
+
+## 📊 Insights & Outcomes
+- Identified key sales trends and pricing structures.
+- Cleaned dataset for improved accuracy in downstream analytics.
+- Recommendations generated for business optimization.
+
+---
+
+## 📄 Files Included
+- `Myntra_Sales.ipynb` – Full sales analysis notebook  
+- `Myntra_DataCleaning.csv` – Cleaned dataset  
+- `Business_Report.md` – Detailed insights and business recommendations  
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!  
+Feel free to open issues or submit pull requests.
+
+---
+
+## 📧 Contact
+For questions or collaboration, reach out anytime.
+
+---
+
+**Created Automatically by ChatGPT — Documentation Assistant**
