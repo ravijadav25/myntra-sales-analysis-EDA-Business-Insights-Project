@@ -7,14 +7,23 @@ This repository contains all scripts, notebooks, and documentation related to th
 
 ## 📁 Project Structure
 ```
+project/
 ├── data/
-│   └── Myntra_DataCleaning.csv
+│   ├── Myntra_DataCleaning.csv
+│   └── myntra_dataset_ByScraping.csv
+│
 ├── notebooks/
 │   └── Myntra_Sales.ipynb
+│
 ├── reports/
 │   └── Business_Report.md
-└── README.md
-├── requirements.txt
+│
+├── SQL Analysis Report/
+│   └── SQL_Analysis_Insights.md
+│
+├── README.md
+└── requirements.txt
+
 ```
 
 ---
