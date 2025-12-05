@@ -60,7 +60,8 @@ project/
 ## 📄 Files Included
 - `Myntra_Sales.ipynb` – Full sales analysis notebook  
 - `Myntra_DataCleaning.csv` – Cleaned dataset  
-- `Business_Report.md` – Detailed insights and business recommendations  
+- `Business_Report.md` – Detailed insights and business recommendations 
+- `SQL_Analysis_Insights.md` –  SQL Queries on the cleaned myntra dataset
 
 ---
 
