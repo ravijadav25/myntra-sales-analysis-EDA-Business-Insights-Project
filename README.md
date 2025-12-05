@@ -54,15 +54,4 @@ This repository contains all scripts, notebooks, and documentation related to th
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome!  
-Feel free to open issues or submit pull requests.
 
----
-
-## 📧 Contact
-For questions or collaboration, reach out anytime.
-
----
-
-**Created Automatically by ChatGPT — Documentation Assistant**
